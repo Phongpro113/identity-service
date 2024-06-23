@@ -1,0 +1,7 @@
+#spring.application.name=demo
+spring:
+  datasource:
+    url: "jdbc:mysql://localhost/identity-service"
+    username: "root"
+    password: ""
+
