@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.devteria.identity_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class IdentityServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
